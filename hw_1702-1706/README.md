@@ -1,9 +1,6 @@
 divide and conquer
-
 decrease and conquer
-
 10513 Backtrack
-
 10515 Analysis of algorithm
 
 10517 mergesort
