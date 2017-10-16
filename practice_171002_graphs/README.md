@@ -1,6 +1,6 @@
 Practice Graphs
 
-(A) UVA 280	Vertex
+- [ ]A UVA 280	Vertex
 
 B UVA 572	Oil Deposits
   1.0地圖+BFS
@@ -20,12 +20,12 @@ F	CodeForces 510C	Fox And Names
 G	CodeForces 329B	Biridian Forest
   2.0地圖和BFS
   
-(H)	CodeForces 20C	Dijkstra?
+- [ ]H	CodeForces 20C	Dijkstra?
   RT，然後紀錄上一個使更新的點
   
-[I]	CodeForces 25C	Roads in Berland
+- [ ]I	CodeForces 25C	Roads in Berland
 
 J	CodeForces 542C	Idempotent functions
   尋找環環環
   
-[K]	UVA 12298	Super Poker II
+- [ ]K	UVA 12298	Super Poker II
